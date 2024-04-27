@@ -35,7 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-# Notes of installation and tutorial
+# Notes of installation and tutorial (first 15min)
 
 - intalled Next.JS v14.2.3: https://nextjs.org/docs/getting-started/installation
 ````
@@ -46,6 +46,8 @@ npx create-next-app@latest
 - node version: v21.6.0
 - npm version: 10.3.0
 - react version: 18
+- Gitbub site: https://gist.github.com/adrianhajdin/e41751d170881f32955f556aaa45c77c
+- copy code from github and replace code in files: tailwind.config.ts and app/globals.css
 
 
 ### Plugins:
