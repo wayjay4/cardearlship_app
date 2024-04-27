@@ -40,16 +40,18 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - intalled Next.JS v14.2.3: https://nextjs.org/docs/getting-started/installation
 ````
 npx create-next-app@latest
+npm install @headlessui/react
 ````
 - using rapid api at: https://rapidapi.com/SAdrian/api/moviesdatabase/
 - TailwindCSS: https://tailwindcss.com/docs/installation
+- HeadlessUI (Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.): https://headlessui.com/
+- IMAGIN.studio (free api key: hrjavascript-mastery) (High quality free standing car imagery is now available at a slide of a finger tip): https://www.imaginstudio.com/
 - node version: v21.6.0
 - npm version: 10.3.0
 - react version: 18
 - Gitbub site: https://gist.github.com/adrianhajdin/e41751d170881f32955f556aaa45c77c
-- copy code from github and replace code in files: tailwind.config.ts and app/globals.css
-
-
+- copy code from github and replace code in files: tailwind.config.ts, app/globals.css and constants/index.ts
+  
 ### Plugins:
 - Extension: ES7+ React/Redux/React-Native snippets for keyboard shortcuts
 - TailwindCSS extention: TailwindCSS Intellisence ....or something
